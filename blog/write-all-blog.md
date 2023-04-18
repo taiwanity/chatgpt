@@ -32,7 +32,7 @@
 
 # 出力
 ```
-## 3.Write 
+## 3.Write introduction
 ```bash
 # 命令書:
 あなたは、プロのSEOライターです。
